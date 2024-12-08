@@ -8,7 +8,6 @@
 import Foundation
 
 enum APIError: Error {
-    case unkwonError
     case invalidParameter
     case invalidURL
     case invalidData
